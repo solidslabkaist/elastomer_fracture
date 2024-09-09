@@ -1,6 +1,6 @@
 # Size-dependent_fracture_in_elastomers
 The following files are associated with the paper:
- Jaehee Lee, Jeongun Lee, Seounghee Yun, Sanha Kim, Shawn A. Chester, Hansohl Cho, 
+ Jaehee Lee, Jeongun Lee, Seounghee Yun, Sanha Kim, Howon Lee, Shawn A. Chester, Hansohl Cho, 
  Size-dependent fracture in elastomers: experiments and continuum modeling, 2024
  (Detailed procedures for finite element implementation are provided in Lee et al., IJSS, 2023; https://doi.org/10.1016/j.ijsolstr.2023.112309) 
 
