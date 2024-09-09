@@ -1,8 +1,9 @@
 ************************************************************************
 ! 
 ! Contributing authors: Jaehee Lee (KAIST), Jeongun Lee (KAIST), 
-!                       Seounghee Yun (KAIST), Sanha Kim (KAIST),    
-!                       Shawn A. Chester (NJIT), Hansohl Cho (KAIST)
+!                       Seounghee Yun (KAIST), Sanha Kim (KAIST), 
+!                       Howon Lee (SNU), Shawn A. Chester (NJIT), 
+!                       Hansohl Cho (KAIST) 
 ! 
 ! Size-dependent fracture in elastomers: experiments and continuum modeling, 2024
 ! 
