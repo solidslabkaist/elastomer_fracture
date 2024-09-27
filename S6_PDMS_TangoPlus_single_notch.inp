@@ -12,8 +12,10 @@
 **
 ** Single-edge-notched specimen with initial crack length a=0.5mm
 **
-** Material properties for PDMS  (Figure 2 and 3) -->  use *Solid Section, elset=allele, material=PDMS
+** Material properties for PDMS  (Figure 2 and 3)     -->  use *Solid Section, elset=allele, material=PDMS
+**                                                             *Material, name=PDMS
 **                     for TangoPlus (Figure 4 and 5) -->  use *Solid Section, elset=allele, material=TP
+**                                                             *Material, name=TP
 **
 *****************************************************************
 *Node
@@ -33090,8 +33092,8 @@
 0.38e0, 1.8e0, 30e0, 38e0, 1.4e0, 0.08e0, 1e-3, 4,
 4
 **
-*Material, name=TP
-*uel property,elset=allele
+**Material, name=TP
+**uel property,elset=allele
 ** Gshear0,ENK,Eb_bar,Kbulk,erff,lc,zeta
 ** nlSdv, ngSdv
 0.24e0, 10e0, 10e0, 24e0, 0.18e0, 1.0e0, 5e-1, 4,
